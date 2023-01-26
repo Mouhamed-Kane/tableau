@@ -3,6 +3,7 @@ table {
     border-collapse: collapse;
 }
 th, td {
+    color : blue;
     padding: 8px;
     text-align: left;
     border: 1px solid #dee2e6;
