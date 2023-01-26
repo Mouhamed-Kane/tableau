@@ -1,0 +1,14 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 8px;
+    text-align: left;
+    border: 1px solid #dee2e6;
+    /* white-space: nowrap;  */
+    /* gérer les espaces blanc pour éviter l'habillage du texte */
+}
+.responsive-table {
+    overflow-x: auto;
+}
